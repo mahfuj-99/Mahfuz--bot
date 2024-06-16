@@ -7,17 +7,17 @@
   "notification": false,
   "approval": false,
   "saveState": true,
-  "BOTNAME": "nayan-bot",
+  "BOTNAME": "mahfuz-bot",
   "PREFIX": "/",
   "OPERATOR": [
-    "100014896964436",
+    "100022102094853",
     "100000959749712"
   ],
   "ADMINBOT": [
-    "100000959749712",
+    "100022102094853",
     ""
   ],
-  "OWNER": ["100000959749712"], 
+  "OWNER": ["100022102094853"], 
   "APPROVED": [],
   "disabledcmds": [],
   "disabledevents": [],
